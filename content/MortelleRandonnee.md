@@ -35,8 +35,9 @@ Lien (https://biodiversitypmc.sibils.org/)
 
 ## Pied de page
 
+Voici un site intéressant [^1]
 [^1]: la note !
 
-Voici un site intéressant
+
 
 
