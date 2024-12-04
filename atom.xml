@@ -311,8 +311,11 @@
 &lt;p&gt;&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;
 Lien (https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;)&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;pied-de-page&quot;&gt;Pied de page&lt;&#x2F;h2&gt;
-&lt;p&gt;Voici un site intéressant&lt;&#x2F;p&gt;
+&lt;p&gt;Voici un site intéressant &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
 &lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;la note ! &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 </content>
         
