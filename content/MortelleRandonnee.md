@@ -35,7 +35,8 @@ Lien (https://biodiversitypmc.sibils.org/)
 
 ## Pied de page
 
-[^1]: My reference.
-[^2]: This is a second line. 
+[^1]: la note !
+
+Voici un site intéressant
 
 
